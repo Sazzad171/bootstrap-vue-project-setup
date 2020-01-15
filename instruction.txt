@@ -1,0 +1,6 @@
+setup ->
+
+npm install bootstrap-vue bootstrap
+add some line in "main.js" from doc.
+
+thats enough!
